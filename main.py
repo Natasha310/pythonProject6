@@ -1,7 +1,5 @@
 import os
 
-import os
-
 films_awards = [{'links': {'next': None, 'previous': None},
                  'count': 49,
                  'results': [{'movie': {'imdb_id': 'tt1201607',
